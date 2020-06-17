@@ -165,7 +165,7 @@ card positioning  */
 .container2{
     z-index: 1;
     margin: -5% 0;
-    width: 33.33%;
+    width: 40%;
     border-radius: 15px;
 }
 .container2 , .container2 h1, .container2 h4, .container2 p{
