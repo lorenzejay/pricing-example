@@ -204,6 +204,10 @@ card positioning  */
         z-index: 0;
         margin:5% 0;
     }
+    .container2 h4{
+        margin-top: -5%;
+    }
+
 
     .container1 button, .container2 button, .container3 button{
         padding: 18px 100px;
